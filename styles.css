@@ -10,6 +10,10 @@ h1 {
   font-size: 3em;
 }
 
-li img {
+li {
   display: inline-block;
+}
+
+nav ul li {
+  display: block;
 }
